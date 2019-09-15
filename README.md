@@ -1,4 +1,4 @@
-# nerual-network_-Back-propagation
+# nerual-network_Back-propagation
 In this project, we will implement the Back propagation learning for a 2 layer perceptron. Moreover, we will discuss and experiment the aspects for influencing the training; and test the trained weights and “fault tolerance”.
 
 For more work requirment, please check "EEL5813_PRJ2.pdf".
